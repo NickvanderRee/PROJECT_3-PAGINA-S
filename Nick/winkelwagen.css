@@ -1,0 +1,88 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+body{
+    background-color: #181818;
+    margin: 0;
+}
+
+header{
+    height: auto;
+    background-color: #252525;
+}
+
+ul{
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 5vh;
+}
+
+li{
+    margin: 5vh;
+    list-style-type: none;
+}
+
+button{
+    background: none;
+    border: none;
+    color: whitesmoke;
+    font-size: 150%;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.winkelwagen{
+    background-color: #252525;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    height: 100vh;
+    width: auto;
+}
+
+p{
+    font-weight: bold;
+    font-size: 150%;
+    padding-top: 5vh;
+    padding-left: 5vh;
+    color: whitesmoke;
+}
+
+label{
+    font-weight: bold;
+    font-size: 110%;
+    padding-left: 5vh;
+    color: whitesmoke;
+}
+input{
+    margin-top: 2.5vh;
+
+}
+form{
+    padding-top: 2.5vh;
+    margin-left: 5vh;
+}
+
+.bestellen{
+    float: right;
+    margin-right: 10%;
+    width: 35%;
+    height: 100%;
+    background-color: #3A3A3A;
+}
+
+.bestelknop{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 10vh;
+    color: whitesmoke;
+    background-color: #FF4D00;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
