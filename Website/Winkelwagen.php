@@ -5,13 +5,9 @@
     </head>
     <body>
         <header>
-            <ul>
-                <li><button>Home</button></li>
-                <li><button>Winkelen</button></li>
-                <li><button>Over ons</button></li>
-                <li><button>Contact</button></li>
-                <li><button><i class="fa fa-shopping-cart" style="font-size:48px;color:whitesmoke"></i></button></li>
-            </ul>
+            <?php
+                include("nav.php");
+            ?>
         </header>
         <main>
             <section class = "winkelwagen">

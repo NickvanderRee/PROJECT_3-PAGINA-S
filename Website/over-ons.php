@@ -1,9 +1,6 @@
-<?php
-include 'header.php';
-?>
-
 <!DOCTYPE html>
-<html style="font-size: 16px;" lang="en"><head>
+<html style="font-size: 16px;" lang="en">
+<head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta name="keywords" content="​We believe in collaboration and innovation.">
@@ -27,6 +24,9 @@ include 'header.php';
     <meta property="og:title" content="Page 2">
     <meta property="og:type" content="website">
   </head>
+  <?php
+include 'nav.php';
+?>
   <body class="u-body u-xl-mode" data-lang="en">
     <section class="u-clearfix u-container-align-center u-section-1" id="carousel_13af">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
