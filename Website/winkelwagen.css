@@ -24,8 +24,77 @@ ul{
 li{
     margin: 5vh;
     list-style-type: none;
-}
-
+} */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+    
+    
+    
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #252525;
+    border-radius: 10px solid black;
+    height: 75px;
+    position: relative;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  nav li {
+    display: flex;
+    padding: 0 10px;
+    position: relative;
+    margin-top: 1vh;
+    margin-left: 1cm;
+  
+  }
+  
+  nav a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 21px;
+    line-height: 50px;
+  }
+  
+  nav a:hover::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+  }
+  nav i:hover::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+  }
+  
+  nav i {
+    display: flex;
+    height: 7vh;
+    width: 5vh;
+    margin-right: 3vh;
+  }
+  
 button{
     background: none;
     border: none;

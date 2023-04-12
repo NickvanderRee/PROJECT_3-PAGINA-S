@@ -41,7 +41,7 @@ include 'nav.php';
             <div class="u-border-2 u-border-grey-15 u-border-no-bottom u-border-no-left u-border-no-right u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2">
                 <h4 class="u-text u-text-5"> Nick</h4>
-                <p class="u-text u-text-6"><br>Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis.</p>
+                <p class="u-text u-text-6"><br>Mijn naam is Nick van de Ree ik ben 16 jaar oud en ik woon in Numansdorp. Ik woon daar met mij ouders en mijn broer komt af en toe langs ook heb ik meerdere huisdieren. Ik zou mezelf omschrijven als een redelijk rustig persoon die zijn taken zo snel mogelijk wilt afronden. </p>
               </div>
             </div>
             <div class="u-border-2 u-border-grey-15 u-border-no-bottom u-border-no-left u-border-no-right u-container-style u-list-item u-repeater-item">

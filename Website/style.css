@@ -10,7 +10,6 @@ nav {
   display: flex;
   justify-content: flex-end;
   background-color: #333;
-  border-radius: 10px solid black;
   height: 75px;
   position: relative;
 }
@@ -364,7 +363,7 @@ justify-content: center;
     border: none;
     outline: none;
     transition: .4s ease-in-out;
-    background-color: #252525;
+    background-color: #353535;
     color: rgb(0, 0, 0);
   }
   
