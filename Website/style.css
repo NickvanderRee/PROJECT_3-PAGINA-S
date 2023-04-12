@@ -816,19 +816,6 @@ a {
 
 
 /*winkelen pagina */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    list-style: none;
-    text-decoration: none;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-
-body{
-    background-color: #181818;
-}
-
 .wrapper{
     display: flex;
     position: relative;
@@ -873,7 +860,6 @@ body{
     font-size: 17px;
 }
 
-
   main {
     display: flex;
     flex-wrap: wrap;
@@ -896,16 +882,19 @@ body{
   section h2 {
     margin-top: 0;
   }
+  
   .prijs {
     color:whitesmoke;
     font-size: 17px;
     margin-bottom: -2rem;
   }
+
   .product1 {
     position: fixed;
     margin-top: -20rem;
     margin-left: 15rem;
   }
+
   .product1-hoofdtekst {
     color: whitesmoke;
   }
@@ -914,52 +903,64 @@ body{
     margin-top: -20rem;
     margin-left: 30rem;
   }
+
   .product3 {
     position: fixed;
     margin-top: -20rem;
     margin-left: 45rem;
   }
+
   .product4 {
     position: fixed;
     margin-top: -20rem;
     margin-left: 60rem;
   }
+
   .product5 {
     position: fixed;
     margin-top: -20rem;
     margin-left: 75rem;
   }
+
   .foto1 {
     width: 150px;
     height: 150px;
   }
+
   .product6 {
     position: fixed;
     margin-left: 15rem;
   }
+
   .product7 {
     position: fixed;
     margin-left: 30rem;
   }
+
   .product8 {
     position: fixed;
     margin-left: 45rem;
   }
+
   .product9 {
     position: fixed;
     margin-left: 60rem;
   }
+
   .product10 {
     position: fixed;
     margin-left: 75rem;
   }
+
   .css2 {
     margin-left: 1rem;
     color: whitesmoke;
   }
+
   label {
     color: whitesmoke;
   }
+
   .css3 {
     margin-left: 1rem;
     

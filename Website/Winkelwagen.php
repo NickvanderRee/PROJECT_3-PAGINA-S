@@ -28,11 +28,9 @@
                 <button class = "bestelknop">Bestellen</button>
                 </form>
             </section>
-                <p>Producten:</p>
+                <p>Producten:</p><br>
             </section>
         </main>
-        <footer>
-
-        </footer>
+        
     </body>
 </html>
