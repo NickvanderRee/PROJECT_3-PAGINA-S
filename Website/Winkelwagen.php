@@ -2,6 +2,7 @@
     <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="winkelwagen.css">
+    <link rel="stylehseet" href="style.css">
     </head>
     <body>
         <header>
@@ -28,9 +29,14 @@
                 <button class = "bestelknop">Bestellen</button>
                 </form>
             </section>
-                <p>Producten:</p><br>
+                <p>Producten:</p>
             </section>
         </main>
         
     </body>
+    <footer>
+        <?php
+            include("footer.php")
+        ?>
+    </footer>
 </html>
